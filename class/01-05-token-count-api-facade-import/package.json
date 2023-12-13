@@ -1,7 +1,0 @@
-{
-  "name": "codecamp-backend-03",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
-  "type": "module"
-}
